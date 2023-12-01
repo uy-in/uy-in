@@ -3,7 +3,7 @@
 
 - 🔭 [View my Portfolio](https://ujjawaldeveloper.netlify.app/)
 
-- ➤ [View my Resume](https://ujjawaldeveloper.netlify.app/resume.pdf)
+- ➤ [View my Resume](https://ujjawaldeveloper.netlify.app/images/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
