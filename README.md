@@ -1,9 +1,9 @@
 <h1 align="center">Hey There👋 I am UJJAWAL YADAV</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 My Work Done [https://ujjawaldeveloper.netlify.app/](https://ujjawaldeveloper.netlify.app/)
+- 🔭 My Work Done [Click Here](https://ujjawaldeveloper.netlify.app/)
 
-- ➤ My Resume [https://ujjawaldeveloper.netlify.app/resume.pdf](https://ujjawaldeveloper.netlify.app/resume.pdf)
+- ➤ My Resume [Click Here](https://ujjawaldeveloper.netlify.app/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
